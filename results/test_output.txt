@@ -1,0 +1,10 @@
+test_edge_cases (test_quicksort.QuicksortTests.test_edge_cases) ... ok
+test_exhaustive_small_duplicate_arrays (test_quicksort.QuicksortTests.test_exhaustive_small_duplicate_arrays) ... ok
+test_ordered_above_default_recursion_limit (test_quicksort.QuicksortTests.test_ordered_above_default_recursion_limit) ... ok
+test_partition_invariant_and_subarray_boundaries (test_quicksort.QuicksortTests.test_partition_invariant_and_subarray_boundaries) ... ok
+test_random_arrays (test_quicksort.QuicksortTests.test_random_arrays) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.352s
+
+OK

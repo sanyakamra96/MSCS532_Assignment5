@@ -1,0 +1,26 @@
+random      n=  250  deterministic=    0.131 ms  randomized=    0.166 ms
+random      n=  500  deterministic=    0.313 ms  randomized=    0.823 ms
+random      n= 1000  deterministic=    0.988 ms  randomized=    1.233 ms
+random      n= 2000  deterministic=    1.875 ms  randomized=    2.700 ms
+random      n= 4000  deterministic=    5.998 ms  randomized=    6.353 ms
+sorted      n=  250  deterministic=    1.646 ms  randomized=    0.166 ms
+sorted      n=  500  deterministic=   13.507 ms  randomized=    0.413 ms
+sorted      n= 1000  deterministic=   55.484 ms  randomized=    1.739 ms
+sorted      n= 2000  deterministic=  195.824 ms  randomized=    2.465 ms
+sorted      n= 4000  deterministic=  695.364 ms  randomized=    5.664 ms
+reverse     n=  250  deterministic=    1.257 ms  randomized=    0.188 ms
+reverse     n=  500  deterministic=    7.534 ms  randomized=    0.557 ms
+reverse     n= 1000  deterministic=   25.486 ms  randomized=    0.965 ms
+reverse     n= 2000  deterministic=  118.187 ms  randomized=    2.121 ms
+reverse     n= 4000  deterministic=  621.111 ms  randomized=    7.250 ms
+few_unique  n=  250  deterministic=    0.285 ms  randomized=    0.328 ms
+few_unique  n=  500  deterministic=    1.189 ms  randomized=    1.387 ms
+few_unique  n= 1000  deterministic=    4.373 ms  randomized=    5.782 ms
+few_unique  n= 2000  deterministic=   15.704 ms  randomized=   16.611 ms
+few_unique  n= 4000  deterministic=   66.003 ms  randomized=   73.151 ms
+all_equal   n=  250  deterministic=    1.702 ms  randomized=    2.171 ms
+all_equal   n=  500  deterministic=    8.956 ms  randomized=    8.747 ms
+all_equal   n= 1000  deterministic=   42.556 ms  randomized=   61.415 ms
+all_equal   n= 2000  deterministic=  149.745 ms  randomized=  176.656 ms
+all_equal   n= 4000  deterministic=  649.689 ms  randomized=  802.701 ms
+Validated all 250 timed sorts.

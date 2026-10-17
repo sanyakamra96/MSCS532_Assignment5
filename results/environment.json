@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-10-17T14:37:20.903068+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "machine": "x86_64",
+  "processor": "x86_64",
+  "sizes": [
+    250,
+    500,
+    1000,
+    2000,
+    4000
+  ],
+  "trials": 5,
+  "base_seed": 53205,
+  "total_timed_sorts": 250,
+  "timer": "perf_counter_ns",
+  "method": "Median of paired trials; alternating order; three warmups per algorithm. Input generation, copies, RNG construction and validation excluded. Python garbage collection kept at default settings. Shared execution environment."
+}

@@ -1,0 +1,2 @@
+# Optional: only needed to regenerate the chart.
+matplotlib>=3.7,<4
